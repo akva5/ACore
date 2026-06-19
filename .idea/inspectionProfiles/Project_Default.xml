@@ -1,0 +1,84 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AutoCloseableResource" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="METHOD_MATCHER_CONFIG" value="java.util.Formatter,format,java.io.Writer,append,com.google.common.base.Preconditions,checkNotNull,org.hibernate.Session,close,java.io.PrintWriter,printf,java.io.PrintStream,printf,com.maxmind.geoip2.DatabaseReader.Builder,build" />
+    </inspection_tool>
+    <inspection_tool class="ConstantValue" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="REPORT_CONSTANT_REFERENCE_VALUES" value="false" />
+    </inspection_tool>
+    <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+    <inspection_tool class="UnnecessaryUnicodeEscape" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore" />
+          <option value="ACore-util" />
+          <option value="ACore_old" />
+          <option value="ACore_old" />
+          <option value="ACore_old" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="commons-codec:commons-codec:1.11" />
+          <option value="com.google.code.gson:gson:2.8.0" />
+          <option value="com.google.guava:guava:21.0" />
+          <option value="org.apache.commons:commons-compress:1.19" />
+          <option value="org.apache.httpcomponents:httpclient:4.5.10" />
+          <option value="com.fasterxml.jackson.core:jackson-databind:2.13.2.2" />
+          <option value="com.google.code.gson:gson:2.2.4" />
+          <option value="io.netty:netty-codec:4.1.53.Final" />
+          <option value="io.netty:netty-common:4.1.53.Final" />
+          <option value="org.springframework.boot:spring-boot-autoconfigure:2.7.0" />
+          <option value="org.springframework.boot:spring-boot:2.7.0" />
+          <option value="org.springframework:spring-core:5.3.20" />
+          <option value="org.springframework:spring-expression:5.3.20" />
+          <option value="com.google.code.gson:gson:2.8.0" />
+          <option value="org.apache.commons:commons-compress:1.19" />
+          <option value="org.apache.httpcomponents:httpclient:4.5.10" />
+          <option value="org.bouncycastle:bcprov-jdk15on:1.63" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="In progress" />
+          <option value="Fixed in branch" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Fixed in branch" />
+          <option value="In progress" />
+          <option value="Not exploitable" />
+          <option value="Fixed in branch" />
+          <option value="Other" />
+          <option value="Not exploitable" />
+          <option value="Fixed in branch" />
+          <option value="In progress" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

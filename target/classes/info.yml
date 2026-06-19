@@ -1,0 +1,10 @@
+prefix: "&8(&4&lG&c&lL&8) &f" # Placeholder: %acore_prefix%
+
+parameters:
+  group: "&c-" # Placeholder: %acore_group_name%
+  suffix: " &7Отсутствует" # Placeholder: %acore_luckperms_suffix_scoreboard%
+
+# Лучше не трогать!
+# prod - скачивает релизы плагина
+# dev - скачивает версию для тестов
+mode: prod

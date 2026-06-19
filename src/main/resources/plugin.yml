@@ -1,0 +1,53 @@
+name: ACore
+version: 7.1.4
+main: akv5.acore.ACore
+api-version: 1.16
+softdepend:
+  - LuckPerms
+  - Vault
+  - TAB
+  - CMI
+  - CMILib
+  - HeadDatabase
+  - AntiRelog
+  - LiteBans
+  - PlaceholderAPI
+  - FastAsyncWorldEdit
+  - ItemsAdder
+  - WorldGuard
+  - WorldEdit
+  - emotecraft
+  - ItemJoin
+  - ProtocolLib
+  - ViaVersion
+  - WorldEdit
+  - WorldGuard
+
+author: akv5
+website: https://t.me/akv_5
+
+permissions:
+  acore.customs.effects:
+    default: op
+
+commands:
+  citems: {}
+  chatcolor: {}
+  rp:
+    aliases: [packs]
+  modeldata: {}
+  lootbox: {}
+  achievementtroll: {}
+  lifttroll: {}
+  bantroll: {}
+  portaltroll: {}
+  8ball:
+    aliases: [magicball]
+  grant: {}
+  abroadcast:
+    aliases: [abc]
+  areload: {}
+  sixseven:
+    aliases: [67, 52]
+  avanish:
+    aliases: [av]
